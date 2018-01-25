@@ -1,0 +1,1204 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: BUG-EMAIL-ADDR <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: yyyy-mm-dd hh:mm+0000\n"
+"PO-Revision-Date: 2017-04-11 12:31+0200\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: Eazy Po 0.9.5.3\n"
+
+#: ajax_binding.php:39
+msgid "Please enter a message."
+msgstr ""
+
+#: ajax_binding.php:52
+msgid "New contact form message from your website "
+msgstr ""
+
+#: ajax_binding.php:54
+msgid "Contact Phone: "
+msgstr ""
+
+#: artemis-core.php:130
+msgid "Unexpected problem occurred when sending the email"
+msgstr ""
+
+#: custom_meta_boxes.php:12 custom_meta_boxes.php:18
+msgid "Page Settings"
+msgstr ""
+
+#: custom_meta_boxes.php:24 custom_meta_boxes.php:30
+msgid "Header Settings"
+msgstr ""
+
+#: custom_meta_boxes.php:36 visual_composer/vc_map.php:1520
+msgid "Description"
+msgstr ""
+
+#: custom_meta_boxes.php:51
+msgid "Archive And Blog Settings"
+msgstr ""
+
+#: custom_meta_boxes.php:114
+msgid "Choose custom page background image:"
+msgstr ""
+
+#: custom_meta_boxes.php:118 custom_meta_boxes.php:240
+msgid "Choose Image"
+msgstr ""
+
+#: custom_meta_boxes.php:119 custom_meta_boxes.php:241
+msgid "Remove Image"
+msgstr ""
+
+#: custom_meta_boxes.php:127
+msgid "Page background color overlay:"
+msgstr ""
+
+#: custom_meta_boxes.php:133
+msgid "Remove footer widgets area for this page:"
+msgstr ""
+
+#: custom_meta_boxes.php:139
+msgid "Remove breadcrumbs navigation for this page: "
+msgstr ""
+
+#: custom_meta_boxes.php:146
+msgid "Remove google map from this contact page: "
+msgstr ""
+
+#: custom_meta_boxes.php:154
+msgid "Custom page title: "
+msgstr ""
+
+#: custom_meta_boxes.php:210 visual_composer/vc_map.php:471
+msgid "Text Color"
+msgstr ""
+
+#: custom_meta_boxes.php:213
+msgid "Header Color Scheme:"
+msgstr ""
+
+#: custom_meta_boxes.php:233
+msgid "Background"
+msgstr ""
+
+#: custom_meta_boxes.php:238
+msgid "Background image:"
+msgstr ""
+
+#: custom_meta_boxes.php:251
+msgid "Background color overlay:"
+msgstr ""
+
+#: custom_meta_boxes.php:266
+msgid "Images slider background color"
+msgstr ""
+
+#: custom_meta_boxes.php:301
+msgid "Override product description"
+msgstr ""
+
+#: custom_meta_boxes.php:343
+msgid "Boxed"
+msgstr ""
+
+#: custom_meta_boxes.php:344 visual_composer/add_remove_params.php:41
+msgid "Full Width"
+msgstr ""
+
+#: custom_meta_boxes.php:348 visual_composer/vc_map.php:1346
+msgid "Center"
+msgstr ""
+
+#: custom_meta_boxes.php:349 visual_composer/vc_map.php:1129
+#: visual_composer/vc_map.php:1345
+msgid "Left"
+msgstr ""
+
+#: custom_meta_boxes.php:353
+msgid "Layout"
+msgstr ""
+
+#: custom_meta_boxes.php:370
+msgid ""
+"Choose blog or archive page layout. Applies on the following page templates: "
+"Blog"
+msgstr ""
+
+#: custom_meta_boxes.php:392
+msgid "Choose how to center text on masonry bricks"
+msgstr ""
+
+#: custom_meta_boxes.php:546 custom_meta_boxes.php:562
+msgid "Heading Color Scheme"
+msgstr ""
+
+#: custom_meta_boxes.php:548 custom_meta_boxes.php:565
+#: visual_composer/add_remove_params.php:39
+#: visual_composer/add_remove_params.php:52
+msgid "Default"
+msgstr ""
+
+#: custom_meta_boxes.php:549 custom_meta_boxes.php:566
+msgid "Black on White"
+msgstr ""
+
+#: custom_meta_boxes.php:550 custom_meta_boxes.php:567
+msgid "White on Black"
+msgstr ""
+
+#: plugin_settings.php:57
+msgid "Artemis Core Plugin Settings"
+msgstr ""
+
+#: plugin_settings.php:74
+msgid "Contact Form E-mail"
+msgstr ""
+
+#: plugin_settings.php:89
+msgid ""
+"Set up the slugs for custom post types and the contact form recipiend email "
+"address."
+msgstr ""
+
+#: plugin_settings.php:103
+msgid "This is the recipient email address for the contact form."
+msgstr ""
+
+#: classes/widgets/ARTEMIS_SWP_contact_data.php:7
+msgid "Artemis Contact Details"
+msgstr ""
+
+#: classes/widgets/ARTEMIS_SWP_contact_data.php:79
+msgid "Phone: "
+msgstr ""
+
+#: classes/widgets/ARTEMIS_SWP_contact_data.php:88
+msgid "Fax: "
+msgstr ""
+
+#: classes/widgets/ARTEMIS_SWP_contact_data.php:97
+msgid "Email: "
+msgstr ""
+
+#: classes/widgets/ARTEMIS_SWP_contact_data.php:137
+msgid "Artemis Store"
+msgstr ""
+
+#: classes/widgets/ARTEMIS_SWP_contact_data.php:143
+#: classes/widgets/ARTEMIS_SWP_recent_posts_with_images.php:95
+msgid "Title:"
+msgstr ""
+
+#: classes/widgets/ARTEMIS_SWP_contact_data.php:147
+msgid "Show social profiles icons"
+msgstr ""
+
+#: classes/widgets/ARTEMIS_SWP_contact_data.php:150
+msgid "Replace widget title with logo"
+msgstr ""
+
+#: classes/widgets/ARTEMIS_SWP_recent_posts_with_images.php:7
+msgid "Recent Posts With Images"
+msgstr ""
+
+#: classes/widgets/ARTEMIS_SWP_recent_posts_with_images.php:90
+msgid "Latest News"
+msgstr ""
+
+#: classes/widgets/ARTEMIS_SWP_recent_posts_with_images.php:98
+msgid "Number of posts:"
+msgstr ""
+
+#: visual_composer/add_remove_params.php:14
+msgid "Color Overlay"
+msgstr ""
+
+#: visual_composer/add_remove_params.php:17
+msgid "Use a color overlay over the background image"
+msgstr ""
+
+#: visual_composer/add_remove_params.php:23
+msgid "Color Scheme"
+msgstr ""
+
+#: visual_composer/add_remove_params.php:26
+msgid "Theme Settings Default"
+msgstr ""
+
+#: visual_composer/add_remove_params.php:27
+msgid "White On Black"
+msgstr ""
+
+#: visual_composer/add_remove_params.php:28
+msgid "Black On White"
+msgstr ""
+
+#: visual_composer/add_remove_params.php:30
+msgid ""
+"Add a custom color scheme that will overwrite the option in Appearance - "
+"Artemis Settings - General. This is an option added by Artemis theme"
+msgstr ""
+
+#: visual_composer/add_remove_params.php:36
+msgid "Custom Row Width/Alignment"
+msgstr ""
+
+#: visual_composer/add_remove_params.php:40
+msgid "Boxed Width"
+msgstr ""
+
+#: visual_composer/add_remove_params.php:43
+msgid ""
+"Force row width for this row. Choose to make the row boxed width or full "
+"width. This setting makes the row to respect the theme alignment. "
+msgstr ""
+
+#: visual_composer/add_remove_params.php:49
+msgid "Custom Aspect Ratio"
+msgstr ""
+
+#: visual_composer/add_remove_params.php:53
+msgid "Square"
+msgstr ""
+
+#: visual_composer/add_remove_params.php:54
+msgid "4/3"
+msgstr ""
+
+#: visual_composer/add_remove_params.php:55
+msgid "16/9"
+msgstr ""
+
+#: visual_composer/add_remove_params.php:57
+msgid ""
+"Choose a custom aspect ratio for this column. The column height will be "
+"adjusted automatically according to the column width."
+msgstr ""
+
+#: visual_composer/add_remove_params.php:89
+msgid "Device"
+msgstr ""
+
+#: visual_composer/add_remove_params.php:92
+msgid "Letter Spacing"
+msgstr ""
+
+#: visual_composer/add_remove_params.php:95
+msgid "Font Size"
+msgstr ""
+
+#: visual_composer/add_shortcodes.php:110
+msgid "Name "
+msgstr ""
+
+#: visual_composer/add_shortcodes.php:111
+msgid "Please enter your name"
+msgstr ""
+
+#: visual_composer/add_shortcodes.php:115
+msgid "Email "
+msgstr ""
+
+#: visual_composer/add_shortcodes.php:116
+msgid "Please enter a correct email address"
+msgstr ""
+
+#: visual_composer/add_shortcodes.php:120
+msgid "Phone "
+msgstr ""
+
+#: visual_composer/add_shortcodes.php:124
+msgid "Message "
+msgstr ""
+
+#: visual_composer/add_shortcodes.php:125
+msgid "Please enter a message"
+msgstr ""
+
+#: visual_composer/add_shortcodes.php:136
+msgid ""
+"Cannot send mail, an error occurred while delivering this message. Please "
+"try again later."
+msgstr ""
+
+#: visual_composer/add_shortcodes.php:140
+msgid "Your message was sent successfully. Thanks!"
+msgstr ""
+
+#: visual_composer/add_shortcodes.php:144
+msgid "Send"
+msgstr ""
+
+#: visual_composer/add_shortcodes.php:719
+msgid "Read more"
+msgstr ""
+
+#: visual_composer/add_shortcodes.php:759
+msgid "by"
+msgstr ""
+
+#: visual_composer/add_shortcodes.php:767
+msgid "in&nbsp;"
+msgstr ""
+
+#: visual_composer/add_shortcodes.php:856
+msgid "Best products"
+msgstr ""
+
+#: visual_composer/vc_map.php:14
+msgid "Gallery"
+msgstr ""
+
+#: visual_composer/vc_map.php:17 visual_composer/vc_map.php:68
+#: visual_composer/vc_map.php:98 visual_composer/vc_map.php:180
+#: visual_composer/vc_map.php:233 visual_composer/vc_map.php:285
+#: visual_composer/vc_map.php:386 visual_composer/vc_map.php:503
+#: visual_composer/vc_map.php:640 visual_composer/vc_map.php:728
+#: visual_composer/vc_map.php:807 visual_composer/vc_map.php:865
+#: visual_composer/vc_map.php:892 visual_composer/vc_map.php:975
+#: visual_composer/vc_map.php:1291 visual_composer/vc_map.php:1459
+#: visual_composer/vc_map.php:1589
+msgid "Artemis Elements"
+msgstr ""
+
+#: visual_composer/vc_map.php:22
+msgid "Row height in pixels"
+msgstr ""
+
+#: visual_composer/vc_map.php:25
+msgid "Row height in pixels. Digits only. Default value: 180"
+msgstr ""
+
+#: visual_composer/vc_map.php:30
+msgid "View all text message"
+msgstr ""
+
+#: visual_composer/vc_map.php:33
+msgid "View all text message. If empty, default value is: View All Images"
+msgstr ""
+
+#: visual_composer/vc_map.php:38
+msgid "Gallery Page URL"
+msgstr ""
+
+#: visual_composer/vc_map.php:41
+msgid "URL to all Photo Gallery page."
+msgstr ""
+
+#: visual_composer/vc_map.php:46
+msgid "Add images"
+msgstr ""
+
+#: visual_composer/vc_map.php:49
+msgid "Add your images here"
+msgstr ""
+
+#: visual_composer/vc_map.php:65
+msgid "Ajax Contact Form"
+msgstr ""
+
+#: visual_composer/vc_map.php:73
+msgid "Input Styling"
+msgstr ""
+
+#: visual_composer/vc_map.php:79
+msgid "Choose how to render the input fields"
+msgstr ""
+
+#: visual_composer/vc_map.php:95
+msgid "Section Heading"
+msgstr ""
+
+#: visual_composer/vc_map.php:103 visual_composer/vc_map.php:979
+msgid "Title"
+msgstr ""
+
+#: visual_composer/vc_map.php:106
+msgid ""
+"Section title - use &lt;span class=&quot;lc_vibrant_color&quot;&gt;some "
+"colored text&lt;/span&gt; to color one or more words in vibrant color."
+msgstr ""
+
+#: visual_composer/vc_map.php:111
+msgid "Title transform"
+msgstr ""
+
+#: visual_composer/vc_map.php:117
+msgid "Make section title uppercase"
+msgstr ""
+
+#: visual_composer/vc_map.php:122
+msgid "Subtitle"
+msgstr ""
+
+#: visual_composer/vc_map.php:125
+msgid ""
+"Section subtitle (optional) - use &lt;span class=&quot;lc_vibrant_color&quot;"
+"&gt;some colored text&lt;/span&gt; to color one or more words in vibrant "
+"color."
+msgstr ""
+
+#: visual_composer/vc_map.php:130
+msgid "Subtitle transform"
+msgstr ""
+
+#: visual_composer/vc_map.php:136
+msgid "Make section subtitle uppercase"
+msgstr ""
+
+#: visual_composer/vc_map.php:141
+msgid "Text align"
+msgstr ""
+
+#: visual_composer/vc_map.php:148
+msgid "Text alignment"
+msgstr ""
+
+#: visual_composer/vc_map.php:153
+msgid "Show order"
+msgstr ""
+
+#: visual_composer/vc_map.php:159
+msgid "Choose what to show first."
+msgstr ""
+
+#: visual_composer/vc_map.php:177
+msgid "Reverse Letter With Text"
+msgstr ""
+
+#: visual_composer/vc_map.php:185 visual_composer/vc_map.php:254
+msgid "Letter"
+msgstr ""
+
+#: visual_composer/vc_map.php:188
+msgid "Flip letter shown on left"
+msgstr ""
+
+#: visual_composer/vc_map.php:193
+msgid "Heading"
+msgstr ""
+
+#: visual_composer/vc_map.php:201 visual_composer/vc_map.php:984
+msgid "Content"
+msgstr ""
+
+#: visual_composer/vc_map.php:230
+msgid "Title With Letter"
+msgstr ""
+
+#: visual_composer/vc_map.php:238
+msgid "Small Heading"
+msgstr ""
+
+#: visual_composer/vc_map.php:246
+msgid "Big Heading"
+msgstr ""
+
+#: visual_composer/vc_map.php:257
+msgid "Transparent letter shown on left"
+msgstr ""
+
+#: visual_composer/vc_map.php:263
+msgid "Block alignment"
+msgstr ""
+
+#: visual_composer/vc_map.php:270
+msgid "Choose the alignment for the entire block."
+msgstr ""
+
+#: visual_composer/vc_map.php:282
+msgid "Standard Heading"
+msgstr ""
+
+#: visual_composer/vc_map.php:290
+msgid "Heading Type"
+msgstr ""
+
+#: visual_composer/vc_map.php:301
+msgid "Choose heading"
+msgstr ""
+
+#: visual_composer/vc_map.php:306
+msgid "Heading Text"
+msgstr ""
+
+#: visual_composer/vc_map.php:310
+msgid "Text content for heading"
+msgstr ""
+
+#: visual_composer/vc_map.php:315 visual_composer/vc_map.php:408
+msgid "Text Transform"
+msgstr ""
+
+#: visual_composer/vc_map.php:321
+msgid "Make your heading uppercase"
+msgstr ""
+
+#: visual_composer/vc_map.php:326
+msgid "Center Heading"
+msgstr ""
+
+#: visual_composer/vc_map.php:333
+msgid "Center the heading to the container"
+msgstr ""
+
+#: visual_composer/vc_map.php:338 visual_composer/vc_map.php:431
+msgid "Custom Font Size"
+msgstr ""
+
+#: visual_composer/vc_map.php:341
+msgid ""
+"Overwrite default font size in pixels for your heading. Enter an integer "
+"value."
+msgstr ""
+
+#: visual_composer/vc_map.php:346 visual_composer/vc_map.php:439
+msgid "Custom Letter Spacing"
+msgstr ""
+
+#: visual_composer/vc_map.php:349
+msgid ""
+"Overwrite default letter spacing in pixels for your heading. Enter an "
+"integer value."
+msgstr ""
+
+#: visual_composer/vc_map.php:354 visual_composer/vc_map.php:447
+msgid "Custom Font Weight"
+msgstr ""
+
+#: visual_composer/vc_map.php:362
+msgid "Overwrite default font weight for your heading."
+msgstr ""
+
+#: visual_composer/vc_map.php:367 visual_composer/vc_map.php:482
+msgid "Responsive Options"
+msgstr ""
+
+#: visual_composer/vc_map.php:369 visual_composer/vc_map.php:484
+msgid ""
+"Responsive letter spacing and font size. Enter integer values. All values "
+"inherit from smaller."
+msgstr ""
+
+#: visual_composer/vc_map.php:383
+msgid "Custom Link"
+msgstr ""
+
+#: visual_composer/vc_map.php:392 visual_composer/vc_map.php:1504
+msgid "Link Text"
+msgstr ""
+
+#: visual_composer/vc_map.php:395
+msgid "Text content for link"
+msgstr ""
+
+#: visual_composer/vc_map.php:400 visual_composer/vc_map.php:1512
+msgid "Link URL"
+msgstr ""
+
+#: visual_composer/vc_map.php:403
+msgid "URL for link"
+msgstr ""
+
+#: visual_composer/vc_map.php:414
+msgid "Make your link text uppercase"
+msgstr ""
+
+#: visual_composer/vc_map.php:419
+msgid "Center Link"
+msgstr ""
+
+#: visual_composer/vc_map.php:426
+msgid "Center the link to the container"
+msgstr ""
+
+#: visual_composer/vc_map.php:434
+msgid ""
+"Overwrite default font size in pixels for the link text. Enter an integer "
+"value."
+msgstr ""
+
+#: visual_composer/vc_map.php:442
+msgid ""
+"Overwrite default letter spacing in pixels for the link text. Enter an "
+"integer value."
+msgstr ""
+
+#: visual_composer/vc_map.php:455
+msgid "Overwrite default font weight for link text."
+msgstr ""
+
+#: visual_composer/vc_map.php:460
+msgid "Visual Effect"
+msgstr ""
+
+#: visual_composer/vc_map.php:466
+msgid "Add a visual effect for link."
+msgstr ""
+
+#: visual_composer/vc_map.php:477
+msgid "Choose to color the text in vibrant color."
+msgstr ""
+
+#: visual_composer/vc_map.php:500
+msgid "Artemis Button"
+msgstr ""
+
+#: visual_composer/vc_map.php:509
+msgid "Button Text"
+msgstr ""
+
+#: visual_composer/vc_map.php:512
+msgid "Text shown on Button"
+msgstr ""
+
+#: visual_composer/vc_map.php:517
+msgid "Button URL"
+msgstr ""
+
+#: visual_composer/vc_map.php:520
+msgid "URL for this button"
+msgstr ""
+
+#: visual_composer/vc_map.php:525
+msgid "Button Align"
+msgstr ""
+
+#: visual_composer/vc_map.php:532
+msgid "Button alignment"
+msgstr ""
+
+#: visual_composer/vc_map.php:537
+msgid "Button Corners"
+msgstr ""
+
+#: visual_composer/vc_map.php:543 visual_composer/vc_map.php:927
+msgid "Choose rounded corners for this button"
+msgstr ""
+
+#: visual_composer/vc_map.php:548
+msgid "Custom Button Background Color"
+msgstr ""
+
+#: visual_composer/vc_map.php:551 visual_composer/vc_map.php:935
+msgid "Choose custom background color for this button"
+msgstr ""
+
+#: visual_composer/vc_map.php:556
+msgid "Custom Button Background Color On Hover"
+msgstr ""
+
+#: visual_composer/vc_map.php:559 visual_composer/vc_map.php:943
+msgid "Choose custom hover background color for this button"
+msgstr ""
+
+#: visual_composer/vc_map.php:564
+msgid "Custom Button Text Color"
+msgstr ""
+
+#: visual_composer/vc_map.php:567 visual_composer/vc_map.php:951
+msgid "Choose custom text color for this button"
+msgstr ""
+
+#: visual_composer/vc_map.php:572
+msgid "Custom Button Text Color On Hover"
+msgstr ""
+
+#: visual_composer/vc_map.php:575 visual_composer/vc_map.php:959
+msgid "Choose custom hover text color for this button"
+msgstr ""
+
+#: visual_composer/vc_map.php:597
+msgid "User Review"
+msgstr ""
+
+#: visual_composer/vc_map.php:606 visual_composer/vc_map.php:610
+msgid "Reviewer Name"
+msgstr ""
+
+#: visual_composer/vc_map.php:615
+msgid "Reviewer Image"
+msgstr ""
+
+#: visual_composer/vc_map.php:618
+msgid "Image for the review author"
+msgstr ""
+
+#: visual_composer/vc_map.php:623
+msgid "Review Content"
+msgstr ""
+
+#: visual_composer/vc_map.php:638
+msgid "User Reviews Slider"
+msgstr ""
+
+#: visual_composer/vc_map.php:726
+msgid "Product Attribute Showcase"
+msgstr ""
+
+#: visual_composer/vc_map.php:754
+msgid "Product Attribute"
+msgstr ""
+
+#: visual_composer/vc_map.php:763
+msgid "Attribute Image"
+msgstr ""
+
+#: visual_composer/vc_map.php:766
+msgid "Image that shows product attribute (ex: material image)"
+msgstr ""
+
+#: visual_composer/vc_map.php:771
+msgid "Attribute Name"
+msgstr ""
+
+#: visual_composer/vc_map.php:774
+msgid "Attribute Name (ex: GREY)"
+msgstr ""
+
+#: visual_composer/vc_map.php:779
+msgid "Product Image"
+msgstr ""
+
+#: visual_composer/vc_map.php:782
+msgid "Image that shows the product having this attribute"
+msgstr ""
+
+#: visual_composer/vc_map.php:804
+msgid "Video Section"
+msgstr ""
+
+#: visual_composer/vc_map.php:812
+msgid "Video Title"
+msgstr ""
+
+#: visual_composer/vc_map.php:815
+msgid "Title for your video. Can be empty."
+msgstr ""
+
+#: visual_composer/vc_map.php:820
+msgid "Background Image"
+msgstr ""
+
+#: visual_composer/vc_map.php:823
+msgid "Add a background image for your section"
+msgstr ""
+
+#: visual_composer/vc_map.php:828
+msgid "Section overlay"
+msgstr ""
+
+#: visual_composer/vc_map.php:831
+msgid ""
+"Add a custom overlay for better title readability. By default it is "
+"transparent."
+msgstr ""
+
+#: visual_composer/vc_map.php:836
+msgid "Video URL"
+msgstr ""
+
+#: visual_composer/vc_map.php:839
+msgid "Paste the URL for your video. YouTube and Vimeo are supported."
+msgstr ""
+
+#: visual_composer/vc_map.php:844
+msgid "Section height"
+msgstr ""
+
+#: visual_composer/vc_map.php:847
+msgid "Section height in pixels. Default value: 700px"
+msgstr ""
+
+#: visual_composer/vc_map.php:862
+msgid "Blog Posts"
+msgstr ""
+
+#: visual_composer/vc_map.php:870
+msgid "Number Of Posts"
+msgstr ""
+
+#: visual_composer/vc_map.php:873
+msgid "Number of posts to show. Default value: 3"
+msgstr ""
+
+#: visual_composer/vc_map.php:889
+msgid "WooCommerce Best Products Slider"
+msgstr ""
+
+#: visual_composer/vc_map.php:897
+msgid "Number Of Products"
+msgstr ""
+
+#: visual_composer/vc_map.php:900
+msgid "Number of products to show. Default value: 5"
+msgstr ""
+
+#: visual_composer/vc_map.php:905 visual_composer/vc_map.php:1610
+msgid "Next Slide Text"
+msgstr ""
+
+#: visual_composer/vc_map.php:908
+msgid "Text shown on [Next] slide navigation link"
+msgstr ""
+
+#: visual_composer/vc_map.php:913 visual_composer/vc_map.php:1622
+msgid "Prevous Slide Text"
+msgstr ""
+
+#: visual_composer/vc_map.php:916 visual_composer/vc_map.php:1625
+msgid "Text shown on [Prev] slide navigation link"
+msgstr ""
+
+#: visual_composer/vc_map.php:921
+msgid "Buy Button Corners"
+msgstr ""
+
+#: visual_composer/vc_map.php:932
+msgid "Custom Buy Button Background Color"
+msgstr ""
+
+#: visual_composer/vc_map.php:940
+msgid "Custom Buy Button Background Color On Hover"
+msgstr ""
+
+#: visual_composer/vc_map.php:948
+msgid "Custom Buy Button Text Color"
+msgstr ""
+
+#: visual_composer/vc_map.php:956
+msgid "Custom Buy Button Text Color On Hover"
+msgstr ""
+
+#: visual_composer/vc_map.php:972
+msgid "Artemis Icon Box"
+msgstr ""
+
+#: visual_composer/vc_map.php:989
+msgid "Url"
+msgstr ""
+
+#: visual_composer/vc_map.php:995
+msgid "Add icon?"
+msgstr ""
+
+#: visual_composer/vc_map.php:997 visual_composer/vc_map.php:1016
+#: visual_composer/vc_map.php:1020 visual_composer/vc_map.php:1034
+#: visual_composer/vc_map.php:1038 visual_composer/vc_map.php:1051
+#: visual_composer/vc_map.php:1055 visual_composer/vc_map.php:1068
+#: visual_composer/vc_map.php:1072 visual_composer/vc_map.php:1084
+#: visual_composer/vc_map.php:1088 visual_composer/vc_map.php:1101
+#: visual_composer/vc_map.php:1112 visual_composer/vc_map.php:1123
+#: visual_composer/vc_map.php:1137 visual_composer/vc_map.php:1148
+msgid "Icon"
+msgstr ""
+
+#: visual_composer/vc_map.php:1001
+msgid "Icon library"
+msgstr ""
+
+#: visual_composer/vc_map.php:1003
+msgid "Font Awesome"
+msgstr ""
+
+#: visual_composer/vc_map.php:1004
+msgid "Open Iconic"
+msgstr ""
+
+#: visual_composer/vc_map.php:1005
+msgid "Typicons"
+msgstr ""
+
+#: visual_composer/vc_map.php:1006
+msgid "Entypo"
+msgstr ""
+
+#: visual_composer/vc_map.php:1007
+msgid "Linecons"
+msgstr ""
+
+#: visual_composer/vc_map.php:1011
+msgid "Select icon library."
+msgstr ""
+
+#: visual_composer/vc_map.php:1033 visual_composer/vc_map.php:1050
+#: visual_composer/vc_map.php:1067 visual_composer/vc_map.php:1100
+msgid "Select icon from library."
+msgstr ""
+
+#: visual_composer/vc_map.php:1105
+msgid "Icon Color"
+msgstr ""
+
+#: visual_composer/vc_map.php:1116
+msgid "Icon Hover Color"
+msgstr ""
+
+#: visual_composer/vc_map.php:1127
+msgid "Icon Position"
+msgstr ""
+
+#: visual_composer/vc_map.php:1130 visual_composer/vc_map.php:1334
+msgid "Top"
+msgstr ""
+
+#: visual_composer/vc_map.php:1141
+msgid "Icon Background Color"
+msgstr ""
+
+#: visual_composer/vc_map.php:1153
+msgid "Css"
+msgstr ""
+
+#: visual_composer/vc_map.php:1155 visual_composer/vc_map.php:1161
+#: visual_composer/vc_map.php:1167
+msgid "Design options"
+msgstr ""
+
+#: visual_composer/vc_map.php:1159
+msgid "Hover Text Color"
+msgstr ""
+
+#: visual_composer/vc_map.php:1165
+msgid "Hover Background Color"
+msgstr ""
+
+#: visual_composer/vc_map.php:1288
+msgid "Artemis Vertical Row Separator"
+msgstr ""
+
+#: visual_composer/vc_map.php:1295
+msgid "Separator type"
+msgstr ""
+
+#: visual_composer/vc_map.php:1298
+msgid "Dashed"
+msgstr ""
+
+#: visual_composer/vc_map.php:1299
+msgid "Dotted"
+msgstr ""
+
+#: visual_composer/vc_map.php:1300
+msgid "Solid"
+msgstr ""
+
+#: visual_composer/vc_map.php:1307 visual_composer/vc_map.php:1565
+msgid "Height"
+msgstr ""
+
+#: visual_composer/vc_map.php:1311 visual_composer/vc_map.php:1319
+msgid ""
+"Enter an integer value followed by a measuring unit: px, em, %. Default: px"
+msgstr ""
+
+#: visual_composer/vc_map.php:1315
+msgid "Line thickness"
+msgstr ""
+
+#: visual_composer/vc_map.php:1324
+msgid "Custom color"
+msgstr ""
+
+#: visual_composer/vc_map.php:1327
+msgid "Choose custom color for separator ( default: theme vibrant color)"
+msgstr ""
+
+#: visual_composer/vc_map.php:1331
+msgid "Vertical Anchor"
+msgstr ""
+
+#: visual_composer/vc_map.php:1335
+msgid "Bottom"
+msgstr ""
+
+#: visual_composer/vc_map.php:1342
+msgid "Horizontal Alignment"
+msgstr ""
+
+#: visual_composer/vc_map.php:1347
+msgid "Right"
+msgstr ""
+
+#: visual_composer/vc_map.php:1354
+msgid "z-index"
+msgstr ""
+
+#: visual_composer/vc_map.php:1357
+msgid "1"
+msgstr ""
+
+#: visual_composer/vc_map.php:1358
+msgid "0"
+msgstr ""
+
+#: visual_composer/vc_map.php:1359
+msgid "-1"
+msgstr ""
+
+#: visual_composer/vc_map.php:1366
+msgid "Separator ends width"
+msgstr ""
+
+#: visual_composer/vc_map.php:1369
+msgid "Nothing"
+msgstr ""
+
+#: visual_composer/vc_map.php:1370
+msgid "Text"
+msgstr ""
+
+#: visual_composer/vc_map.php:1371 visual_composer/vc_map.php:1464
+msgid "Image"
+msgstr ""
+
+#: visual_composer/vc_map.php:1378
+msgid "End Text"
+msgstr ""
+
+#: visual_composer/vc_map.php:1390
+msgid "Custom Text color"
+msgstr ""
+
+#: visual_composer/vc_map.php:1397
+msgid "Choose custom color for text( default: theme vibrant color)"
+msgstr ""
+
+#: visual_composer/vc_map.php:1401
+msgid "End Text Font Size"
+msgstr ""
+
+#: visual_composer/vc_map.php:1409
+msgid "Choose custom font size for end text"
+msgstr ""
+
+#: visual_composer/vc_map.php:1413
+msgid "End Image"
+msgstr ""
+
+#: visual_composer/vc_map.php:1423
+msgid "Offset left"
+msgstr ""
+
+#: visual_composer/vc_map.php:1430
+msgid "Offset right"
+msgstr ""
+
+#: visual_composer/vc_map.php:1437
+msgid "Extra class"
+msgstr ""
+
+#: visual_composer/vc_map.php:1456
+msgid "Lookbook Single"
+msgstr ""
+
+#: visual_composer/vc_map.php:1467
+msgid ""
+"Depending on the layout, image can be used as background. Please provide a "
+"good quality image."
+msgstr ""
+
+#: visual_composer/vc_map.php:1472
+msgid "Layout Styling"
+msgstr ""
+
+#: visual_composer/vc_map.php:1479
+msgid "Choose how your lookbook looks like."
+msgstr ""
+
+#: visual_composer/vc_map.php:1484
+msgid "Lookbook Title"
+msgstr ""
+
+#: visual_composer/vc_map.php:1487
+msgid "Title for your lookbook. Ex: True Classics"
+msgstr ""
+
+#: visual_composer/vc_map.php:1492
+msgid "Lookbook Subtitle"
+msgstr ""
+
+#: visual_composer/vc_map.php:1495
+msgid "Subtitle for your lookbook. Ex: Accesories"
+msgstr ""
+
+#: visual_composer/vc_map.php:1507
+msgid "Link text. Ex: View Collection"
+msgstr ""
+
+#: visual_composer/vc_map.php:1515
+msgid "Link URL. Web address where the link points."
+msgstr ""
+
+#: visual_composer/vc_map.php:1523
+msgid "A short description about this look. Can be empty."
+msgstr ""
+
+#: visual_composer/vc_map.php:1528
+msgid "Content Location"
+msgstr ""
+
+#: visual_composer/vc_map.php:1534 visual_composer/vc_map.php:1604
+msgid "Choose where to add text content - left or right side of the image."
+msgstr ""
+
+#: visual_composer/vc_map.php:1542
+msgid "Title over image"
+msgstr ""
+
+#: visual_composer/vc_map.php:1544
+msgid "Make title overlap the image."
+msgstr ""
+
+#: visual_composer/vc_map.php:1552
+msgid "Full Screen Height"
+msgstr ""
+
+#: visual_composer/vc_map.php:1554
+msgid "Make this element full screen height."
+msgstr ""
+
+#: visual_composer/vc_map.php:1558
+msgid "Custom Element Height"
+msgstr ""
+
+#: visual_composer/vc_map.php:1560
+msgid "Add custom height for element."
+msgstr ""
+
+#: visual_composer/vc_map.php:1568
+msgid "Height in pixels. Default value: 500px."
+msgstr ""
+
+#: visual_composer/vc_map.php:1587
+msgid "Lookbook Slider"
+msgstr ""
+
+#: visual_composer/vc_map.php:1598
+msgid "Navigation Style"
+msgstr ""
+
+#: visual_composer/vc_map.php:1613
+msgid "Text shown on [Next] slide navigation link."
+msgstr ""
+
+#: visual_composer/add_shortcodes.php:1779
+msgid "Subscribe"
+msgstr ""
+
+#: visual_composer/add_shortcodes.php:1780
+msgid "Processing..."
+msgstr ""

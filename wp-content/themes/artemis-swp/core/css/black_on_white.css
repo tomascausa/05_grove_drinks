@@ -1,0 +1,504 @@
+a, h1, h2, h3, h4, h5, h6, strong, dt,
+.vc_row h1, .vc_row h2, .vc_row  h3, 
+.vc_row  h4, .vc_row  h5, .vc_row h6,
+thead, 
+.lc_blog_masonry_brick.has_thumbnail .lc_post_meta a,
+.woocommerce div.product .woocommerce-tabs ul.tabs li.active a,
+.woocommerce div.product .woocommerce-tabs ul.tabs li a:hover,
+.woocommerce #respond input#submit,
+input.button, input.button:hover, .woocommerce input.button,  .woocommerce input.button:hover,
+input[type="submit"],
+.comment_author_details cite.fn, .lc_share_item_text, .author_name, .lc_post_meta a, .breadcrumbs_nav a.last_elt,
+.lc_blog_masonry_brick a h2,
+.woocommerce-ordering select,
+.woocommerce .woocommerce-ordering select option,
+.widget_product_categories ul.product-categories > li a,
+.widget_product_categories ul.product-categories ul.children > li.current-cat a,
+.woocommerce table.shop_table td.product-subtotal,
+.woocommerce table.shop_table td.product-name,
+.artemis-swp-miniwishlist .product_list_widget .mini_wishlist_item .mini_wishlist-item-product-name,
+.artemis-swp-minicart-icon .artemis-swp-minicart .mini_cart_item .minicart-item-product-name,
+.artemis-swp-minicart-icon .artemis-swp-minicart .mini_cart_item .at_wishlist_add_to_cart,
+td.actions input.button, tr.order-total td,
+.woocommerce-checkout #order_review tbody .product-total,
+.woocommerce .products .at_product_actions_mask .star-rating,
+.woocommerce .products .at_product_actions_mask .star-rating:before,
+.artemis_swp_add_to_wishlist,
+.artemis_swp_quickview_button,
+.woocommerce .at_product_actions_mask a.button,
+.woocommerce .at_product_actions_mask a.button:hover,
+.woocommerce nav.woocommerce-pagination ul li a:focus,
+.woocommerce nav.woocommerce-pagination ul li a:hover,
+.woocommerce nav.woocommerce-pagination ul li span.current,
+.at_product_actions_mask .artemis_swp_already_on_wishlist,
+.woocommerce table.shop_table td.product-remove .edit,
+.woocommerce table.shop_table td.product-remove .remove:hover,
+.woocommerce .artemis-swp-order-thank-you table.shop_table,
+.woocommerce .artemis-swp-order-thank-you table.shop_table tbody th,
+.woocommerce .artemis-swp-order-thank-you table.shop_table td,
+.woocommerce .artemis-swp-order-thank-you table.shop_table tfoot td,
+.woocommerce .artemis-swp-order-thank-you table.shop_table tfoot th,
+.woocommerce-MyAccount-navigation-link.is-active a,
+.lc_review_content,
+.artemis-swp-minicart-icon .artemis-swp-minicart .buttons .button.checkout,
+.artemis-swp-minicart-icon .artemis-swp-minicart .buttons .button:hover,
+.artemis-swp-miniwishlist .product_list_widget .mini_wishlist_item .artemis-swp-wishlist-remove-item,
+.artemis-swp-minicart-icon .artemis-swp-minicart .mini_cart_item .remove,
+.woocommerce-checkout #order_review tfoot th,
+.woocommerce .login .rememberme,
+.woocommerce #customer_login .rememberme,
+.woocommerce #customer_login .login .button,
+.at_swp_popup_dialog .button:hover,
+.at_swp_popup_dialog .button.alt,
+body .select2-container--open .select2-dropdown--below,
+.artemis-swp-miniwishlist .product_list_widget .empty,
+.artemis-swp-minicart-icon .artemis-swp-minicart .cart_list .empty,
+.woocommerce ul.cart_list li dl dd,
+.woocommerce ul.product_list_widget li dl dd,
+.woocommerce .widget_shopping_cart .total,
+.woocommerce.widget_shopping_cart .total,
+.prod_details_cat, .rev_rotate_letter,
+.woocommerce #reviews #comments ol.commentlist li .comment-text p.meta strong,
+.woocommerce #reviews #comments ol.commentlist li .comment-text .star-rating,
+.attr_txt, .before_at_cf_detail, .at_first_color, .look_desc strong, .widget_artemis_recent_posts.widget_recent_entries a, h3.footer-widget-title,
+.widget.widget_text strong, .woocommerce .cart-collaterals .at_coupon_form .button, .brick_cust_desc,
+.artemis-swp-miniwishlist .buttons .button.artemis-swp-view-wishlist:hover,
+.artemis-swp-minicart .buttons .button.artemis-swp-add_to_cart:hover, 
+i.at_swp_icon-box-icon, .vertical_promo_link a:hover, .vertical_promo_categ_name {
+    color: #000000;
+}
+
+/*same on both color schemes [[[*/
+.look_content h2, a.look_link.text_over_image, .unslider-look-arrow, .unslider-look-arrow:hover,
+.artemis-swp-miniwishlist .buttons .button.artemis-swp-view-wishlist,
+.artemis-swp-minicart .buttons .button.artemis-swp-add_to_cart,
+.search_result_post_title {
+	color: #ffffff;
+}
+.unslider-look-arrow {
+	background-color: rgba(0,0,0,0.7);
+}
+.unslider-look-arrow:hover {
+	background-color: rgba(0,0,0,0.9);
+}
+a.look_link.text_over_image:after, input.at_news_input_entry {
+	background-color: #ffffff;
+}
+
+.artemis_swp_search_post .at_swp-read-more,
+.look_content h3, #search_results .woocommerce-Price-amount {
+	color: #959595;
+}
+/*same on both color schemes ]]]*/
+
+h3.widgettitle::after, a.at_link_line_before:before {
+	background: #000000;
+}
+
+.artemis-swp-miniwishlist .product_list_widget .mini_wishlist_item .artemis-swp-wishlist-remove-item:hover,
+.woocommerce .widget_shopping_cart .cart_list li a.remove:hover,
+.woocommerce.widget_shopping_cart .cart_list li a.remove:hover,
+.artemis-swp-minicart-icon .artemis-swp-minicart .mini_cart_item .remove:hover, .font_style_small h5.lc_reviewer_name {
+    color: #000000 !important;
+}
+
+body, input, textarea, 
+.vc_row, .woocommerce ul.products li.product .price del,
+.woocommerce div.product p.price del, 
+.woocommerce div.product span.price del,
+h4.section_subtitle,
+.woocommerce div.product .woocommerce-tabs ul.tabs li a,
+.comment-meta, .comment-meta a, .breadcrumbs_nav, .breadcrumbs_nav a,
+#sidebar button.search-submit i, .lc_footer_sidebar button.search-submit i,
+.widget_product_categories li.current-cat ul.children li a,
+.widget_product_categories li.current-cat-parent ul.children li a,
+.widget_layered_nav ul, .widget_layered_nav ul a, tr.cart-subtotal td,
+.woocommerce form .form-row .select2-container .select2-choice,
+.woocommerce td.product-name dl.variation dt,
+.woocommerce-error, .woocommerce-info, .woocommerce-message,
+.woocommerce #customer_login .lost_password a,
+.woocommerce .login .lost_password a,
+.woocommerce-MyAccount-navigation-link a,
+.at_login_popup_forms .login-username label,
+.at_login_popup_forms .login-password label,
+.woocommerce #reviews #comments ol.commentlist li .comment-text,
+.at_prod_slider_container a.unslider-arrow, .widget_recent_entries a, #recentcomments a, .widget_nav_menu li.menu-item a,
+.mini_wishlist_item .stock, .font_style_small .lc_review_content, .at_swp-icon-box-content {
+	color: #959595;
+}
+
+.vertical_promo_txt {
+	box-shadow: inset 0 0 0 6px #959595;
+}
+
+.woocommerce a.remove,
+.artemis-swp-wishlist-remove-item,
+.woocommerce table.shop_table td.product-remove .remove {
+	color : #959595 !important;
+}
+
+input::-webkit-input-placeholder, 
+textarea::-webkit-input-placeholder,
+.woocommerce-checkout input::-webkit-input-placeholder {
+	color: #959595;
+}
+
+blockquote, h3#comments-title,
+h3.related_posts_title, h4.related_title,
+.woocommerce-cart .cart-collaterals .cart_totals tr th,
+tr.cart-subtotal th, tr.order-total th, cite, .brick_cust_subtitle, pre {
+	color: #252525;
+}
+
+.lc_button, .lc_button a,
+.at_swp_popup_dialog .button,
+.woocommerce input.button:hover,
+.at_swp_popup_dialog .button.alt:hover,
+.woocommerce a.button, .woocommerce button.button.alt, .woocommerce #respond input#submit, input.button, .woocommerce input.button,
+.woocommerce a.button.alt, .woocommerce input.button.alt,
+.lc_button a:hover, .woocommerce a.button:hover, button.single_add_to_cart_button:hover, #commentform input#submit, input.lc_button, 
+.vc_row input.lc_button,
+.woocommerce button.button,
+button.single_add_to_cart_button,
+.woocommerce .product .onsale,
+.woocommerce .at_product_actions_mask a.button:before,
+.woocommerce .at_product_actions_mask a.added_to_cart:before,
+.artemis_swp_template-type_1.woocommerce div.product .woocommerce-tabs ul.tabs li.active:after,
+.artemis_swp_template-type_1 .gallery-unslider-arrow:hover,
+.woocommerce #customer_login .login .button:hover,
+.woocommerce button.button.alt, .woocommerce button.button.alt.disabled,
+.woocommerce-MyAccount-navigation li.woocommerce-MyAccount-navigation-link.is-active a:after, a.at_link_line_before:before {
+	background-color: #000000;
+	border-color: #000000;
+	color: #ffffff;
+}
+
+.at_wishlist .artemis-swp-miniwishlist,
+.artemis-swp-miniwishlist .buttons .button:hover,
+.woocommerce .shipping-calculator-form button.button:hover,
+.at_login_popup_forms .input,
+.woocommerce #customer_login .input-text,
+.woocommerce-page #customer_login .input-text,
+.woocommerce .at_login_popup_forms .input,
+.woocommerce .at_login_popup_forms .input-text,
+.at_login_popup_forms .input,
+.at_login_popup_forms .input-text,
+.woocommerce #customer_login .login .button,
+.at_swp_popup_dialog .button:hover,
+.at_swp_popup_dialog .button.alt,
+.artemis-swp-minicart-icon .artemis-swp-minicart {
+	background-color : transparent;
+}
+
+input:not([type=radio]):not([type=checkbox]):not([type=submit]):not(.at_news_input_entry), td.actions input.button {
+	background-color: transparent;
+}
+.at_login_popup_forms input[type="text"], .at_login_popup_forms input[type="password"],
+.at_login_popup_forms input[type="email"] {
+	background-color: #ffffff !important;
+}
+
+.lc_sharing_icons a {
+	color: #acb0b2;
+}
+
+.lc_post_tags a, .lc_post_meta, .post_item.no_thumbnail .lc_post_meta, 
+.one_of_three.no_thumbnail .related_meta,
+.woocommerce .woocommerce-result-count,
+.at_products_per_row_container,
+.at_product_list_mode_container,
+.at_products_per_row_container .at_products_per_row_item,
+.at_product_list_mode_container .at_product_list_mode,
+.woocommerce nav.woocommerce-pagination ul li a,
+.lc_copy_area.black_on_white a,
+.artemis-swp-minicart-icon .artemis-swp-minicart .mini_cart_item dt,
+.woocommerce #reviews #comments ol.commentlist li .comment-text p.meta,
+h5.lc_reviewer_name, .products_category_filter a {
+	color: #acacac;
+}
+
+pre {
+	background-color: #f5f5f5;
+}
+
+#rememberme:checked + label:after,
+.at_login_popup_forms #rememberme:checked + label:after,
+.woocommerce .widget_price_filter .ui-slider .ui-slider-range,
+.woocommerce .widget_price_filter .ui-slider .ui-slider-handle {
+	background-color: #000000;
+}
+.woocommerce .widget_price_filter .price_slider_wrapper .ui-widget-content {
+	background-color: #959595;
+}
+.ui-slider-handle.ui-state-default.ui-corner-all:first-of-type {
+	background-color: #c2c2c2;
+}
+.woocommerce .widget_price_filter .price_slider_amount .button {
+	border-color: #acacac;
+	color: #252525;
+}
+
+.woocommerce table.shop_table th,
+.woocommerce table.shop_table td,
+td {
+    border-top-color: #ebebeb !important;
+}
+
+table {
+	border-bottom-color: #ebebeb !important;
+}
+
+.vertical_promo_link:hover {
+	border-bottom-color: #000000;
+}
+
+.decrement_qty, .increment_qty,
+.woocommerce .quantity .qty,
+.artemis_swp_full_line,
+.woocommerce-cart table.cart td.actions .coupon .input-text,
+.woocommerce div.product form.cart .variations select {
+	border-color: #ebebeb !important;
+}
+
+.at_login_popup_forms #rememberme + label:before,
+#rememberme + label:before,
+.woocommerce #customer_login .button,
+.at_swp_popup_dialog .button:hover,
+.woocommerce .shop_table_responsive input.button {
+	border-color: #000000;
+}
+
+.swp_vertical_shop_promo:hover .vertical_promo_txt::before {
+    border-top-color: #000000;
+    border-right-color: #000000;
+}
+
+.swp_vertical_shop_promo:hover .vertical_promo_txt::after {
+    border-bottom-color: #000000;
+    border-left-color: #000000;	
+}
+
+article.no_thumbnail.sticky .post_item_details.no_thumbnail {
+	border-color: #464646;
+}
+.woocommerce-checkout-review-order-table tfoot tr:not(:first-of-type),
+.woocommerce .artemis-swp-order-thank-you table.shop_table tfoot tr:not(:first-of-type) {
+	border-top-color: #e1e1e1;
+}
+
+.artemis-swp-miniwishlist .product_list_widget .mini_wishlist_item:not(:last-of-type),
+.artemis-swp-minicart-icon .artemis-swp-minicart .mini_cart_item:not(:last-of-type),
+.woocommerce .widget_shopping_cart .cart_list li:not(:last-of-type),
+.woocommerce.widget_shopping_cart .cart_list li:not(:last-of-type),
+.woocommerce form .form-row .select2-container .select2-choice,
+.woocommerce #customer_login .login .input-text,
+.woocommerce-page #customer_login .login .input-text,
+.woocommerce-checkout input:not([type=radio]):not([type=checkbox]),
+.woocommerce-billing-fields input:not([type=radio]):not([type=checkbox]),
+.woocommerce-MyAccount-content input.input-text,
+.woocommerce-Input.input-text {
+	border-bottom-color: #e1e1e1 !important;
+}
+
+.at_product_actions_mask{
+	background-color: rgba(255,255,255, 0.7);
+}
+.at_login_popup_forms {
+	background-color : rgba(244, 248, 251, 0.88);
+}
+
+.best_products_shadow {
+	color: #edf1f2;
+}
+
+.transparent_letter {
+	color: #f1f1f1;
+}
+
+.left_side.active_attr {
+    background-color: #f1f7f7;
+}
+
+.white_on_black .breadcrumbs_nav a.last_elt, 
+.lc_blog_masonry_brick.no_thumbnail a h2,
+.one_of_three.no_thumbnail h4 a,
+.woocommerce .widget_price_filter .price_slider_amount .button:hover, .woocommerce #respond input#submit:hover,
+.woocommerce .shop_table_responsive input.button:hover, .at_video_section_play i, h3.at_video_title,
+.artemis-swp-minicart-icon .artemis-swp-minicart .buttons .button.checkout:hover {
+	color: #ffffff;
+}
+
+.post_item.no_thumbnail .lc_post_meta a, .post_item.no_thumbnail .masonry_read_more a, 
+.one_of_three.no_thumbnail .related_meta a, .prod_details_name {
+	color: #e6e6e6;
+}
+
+.at_best_products .prod_details_name {
+	color: #555555;
+}
+
+.lc_blog_masonry_brick.no_thumbnail a h2 {
+	font-weight: 700;
+}
+
+.woocommerce .widget_layered_nav ul li.chosen a:before, .woocommerce .widget_layered_nav_filters ul li a:before {
+	color: #ffffff;
+}
+
+
+.at_products_per_row_container .at_products_per_row_item.active,
+.at_product_list_mode_container .at_product_list_mode.active {
+	color: #000000;
+}
+
+h3.widgettitle,
+#wp-calendar thead,
+.widget_artemis_contact_data .contact_address_w_entry {
+    color : #252525;
+}
+
+.tagcloud a,
+.widget_meta a,
+.widget_pages a,
+.widget_archive a,
+.widget_categories a,
+.widget_artemis_contact_data a {
+    color : #868686;
+}
+
+.tagcloud a,
+.widget input[type="search"],
+.woocommerce a.button.alt,
+input.button,
+.woocommerce input.button,
+.woocommerce a.button,
+.at_swp_popup_dialog .button,
+button.single_add_to_cart_button {
+    border-color : #CECECE;
+}
+
+.meta_entry.lc_cpt_category a {
+    border-color : #4E4E4E;
+}
+
+.tagcloud a:hover {
+    border-color : #797979;
+}
+
+/*select2 [[[*/
+.select2-container--default .select2-selection--single .select2-selection__rendered {
+	color: #000000;
+}
+.select2-container--open .select2-dropdown--below {
+	color: #959595;
+}
+/*select2 ]]]*/
+
+
+/*widgets Footer white on black TODO [[[*/
+.white_on_black h3.footer-widget-title,
+.white_on_black h3.widgettitle,
+.white_on_black #wp-calendar thead,
+.white_on_black #recentcomments a,
+.white_on_black .lc_share_item_text {
+    color : #ffffff;
+}
+
+.white_on_black .tagcloud a,
+.white_on_black .widget_meta a,
+.white_on_black .widget_pages a,
+.white_on_black .widget_categories a,
+.white_on_black .widget_recent_entries a,
+.white_on_black .widget_archive a,
+.white_on_black .lc_sharing_icons a,
+.lc_copy_area.white_on_black a {
+    color : #868686;
+}
+
+.white_on_black .tagcloud a,
+.white_on_black .widget input[type="search"],
+.white_on_black .woocommerce a.button,
+.white_on_black .woocommerce a.button.alt,
+.white_on_black input.button,
+.white_on_black .woocommerce input.button,
+.white_on_black button.single_add_to_cart_button,
+.white_on_black .widget button[type="submit"] {
+    border-color : #9C9C9C;
+}
+
+.white_on_black .meta_entry.lc_cpt_category a {
+    border-color : #4E4E4E;
+}
+
+.white_on_black .tagcloud a:hover {
+    border-color : #9C9C9C;
+}
+/*footer white on black ]]]*/
+
+#lc_global_search input, #lc_global_search button, .close_search_form {
+	color: #ffffff;
+}
+
+blockquote i.fa {
+	opacity: 0.15;
+}
+
+.lc_back_to_top_btn,
+#commentform textarea,  input#author,  input#email,  input#url,
+input.artemis_cf_input,  textarea.artemis_cf_input, 
+.woocommerce-ordering select,
+div.product .woocommerce-tabs ul.tabs:before,
+.woocommerce-message,
+.woocommerce table,  .woocommerce th, .woocommerce td,
+.woocommerce form .form-row.woocommerce-validated input.input-text,  #order_comments_field textarea {
+	border-color: #959595 !important;
+}
+
+.lc_back_to_top_btn:hover > i {
+	color: #a7a7a7;
+}
+
+.lc_blog_masonry_brick.has_thumbnail .lc_post_meta {
+	color: #cbcbcb;
+}
+
+.post_item.lc_blog_masonry_brick.no_thumbnail, .gallery_brick_overlay, .at_related_posts .one_of_three.no_thumbnail {
+	background-color: #1d1d1d;
+}
+
+.lnwidtget_no_featured_img {
+	background-color: #151515;
+}
+
+#commentform input#submit:hover,  input.lc_button:hover, .lc_button a:hover, .lc_button:hover > a, 
+.woocommerce a.button:hover, .woocommerce ul.products li.product:hover > a.button,
+.woocommerce button.button.alt:hover, .woocommerce button.button.alt.disabled:hover, input.button:hover {
+	color: #ffffff;
+}
+
+.lc_blog_masonry_brick.no_thumbnail .lc_post_excerpt   {
+	color: #7b7b7b;
+}
+
+/*white on black overwrites default*/
+.white_on_black, .white_on_black h4.section_subtitle {
+	color: #7b7b7b;
+}
+.white_on_black h1, .white_on_black h2, .white_on_black h3, .white_on_black h4, .white_on_black h5, .white_on_black h6,
+.white_on_black a, .white_on_black input[type="submit"], .white_on_black .brick_cust_desc,
+.white_on_black .lc_review_content,
+.white_on_black strong, .white_on_black .font_style_small h5.lc_reviewer_name {
+	color: #ffffff !important;
+}
+.white_on_black .lc_view_more, .white_on_black h4.section_subtitle {
+	font-weight: 300;
+}
+.white_on_black input.artemis_cf_input, .white_on_black textarea.artemis_cf_input {
+	border-color: #2b2b2b !important;
+}
+.white_on_black .brick_cust_subtitle {
+	color: #dadada;
+}
+.white_on_black a.at_link_line_before:before {
+	background-color: #ffffff;
+}

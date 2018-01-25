@@ -1,0 +1,16 @@
+.ai_swp_menu_item_image, .ai_swp_menu_item_image img {
+	max-width: 100%
+}
+
+.ai_swp_menu_item_image {
+	margin: 5px 10px 5px 0px !important;
+}
+
+a[id^="menu-item-image-upload-button-"] {
+	margin-top: 6px !important;
+	margin-bottom: 5px !important;
+}
+
+a.remove-menu-item-image {
+	display: block;
+}

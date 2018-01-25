@@ -1,0 +1,10 @@
+body, 
+.woocommerce .widget_layered_nav ul li.chosen a:before, .woocommerce .widget_layered_nav_filters ul li a:before,
+#logo, #mobile_logo, #heading_area h1,
+input[type="submit"],
+h3.footer-widget-title, h3.widgettitle,
+.lc_share_item_text, .lb-number, .lc_button, .woocommerce a.button, input.button, .woocommerce input.button, button.single_add_to_cart_button, h2.lc_post_title,
+.page_navigation, .lc_view_more,
+h1, h2, h3, h4, h5, h6 {
+    font-family     : 'Lato', sans-serif;
+}
